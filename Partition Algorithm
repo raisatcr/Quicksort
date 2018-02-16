@@ -1,4 +1,9 @@
 /* low  --> Starting index,  high  --> Ending index */
+
+//change made for dem//
+
+
+
 quickSort(arr[], low, high)
 {
     if (low < high)
